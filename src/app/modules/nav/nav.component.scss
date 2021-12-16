@@ -1,0 +1,25 @@
+nav {
+  color: #0e0e0f;
+  padding: 5px;
+  display: flex;
+  margin-left: -20px;
+  margin-right: -20px;
+}
+
+nav > div {
+  padding: 5px 10px;
+  margin-right: 20px;
+  margin-left: 20px;
+  border: 1px solid #EEE;
+  cursor: pointer;
+}
+
+.active {
+
+  background: black;
+  color: black;
+}
+
+nav {
+  color: #0e0e0f;
+}
